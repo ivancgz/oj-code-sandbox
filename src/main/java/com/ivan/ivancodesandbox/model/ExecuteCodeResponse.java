@@ -1,4 +1,4 @@
-package com.ivan.coj.judge.codesandbox.model;
+package com.ivan.ivancodesandbox.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

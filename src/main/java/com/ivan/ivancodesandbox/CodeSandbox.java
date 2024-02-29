@@ -1,7 +1,7 @@
-package com.ivan.coj.judge.codesandbox;
+package com.ivan.ivancodesandbox;
 
-import com.ivan.coj.judge.codesandbox.model.ExecuteCodeRequest;
-import com.ivan.coj.judge.codesandbox.model.ExecuteCodeResponse;
+import com.ivan.ivancodesandbox.model.ExecuteCodeRequest;
+import com.ivan.ivancodesandbox.model.ExecuteCodeResponse;
 
 /**
  * 代码沙箱接口定义
