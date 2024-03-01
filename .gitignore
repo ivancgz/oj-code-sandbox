@@ -4,6 +4,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+resources/木马程序.bat
 
 ### STS ###
 .apt_generated
